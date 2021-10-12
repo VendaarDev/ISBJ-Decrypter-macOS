@@ -2,7 +2,7 @@
 [Weiter zur Downloadseite](https://github.com/VendaarDev/ISBJ-Decrypter-macOS/releases/tag/1.0)
 
 ## Deutsch
-Dieses Programm macht die ISBJ Entschlüsselungssoftware unter MacOS lauffähig.
+Dieses Programm macht die ISBJ Entschlüsselungssoftware unter MacOS lauffähig. 
 Laden Sie einfach die neueste Version unter "Releases" herunter und installieren Sie das Programm. Anschließend finden Sie den "Decrypter" im Programme-Ordner.
 Getestet unter Mac OS Big Sur 11.0.1
 
