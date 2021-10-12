@@ -5,9 +5,7 @@ Getestet unter Mac OS Big Sur 11.0.1
 
 Dieses Projekt wird nicht von der der Senatsverwaltung für Bildung, Jugend und Familie Berlin unterstützt sondern privat von mir vertrieben, da der Senat offiziell nur Windows unterstützt.
 
-
-
-Makes the Decrypter of Intergrierte Software Berliner Jugendhilfe (ISBJ) running on MacOS.
+Version of the Decrypter of Intergrierte Software Berliner Jugendhilfe (ISBJ) for MacOS.
 Just download the package you can find on "releases" and run it on your system.
 
 This project is not officially affiliated with Senate Department for Education, Youth and Family of Berlin.
