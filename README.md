@@ -1,5 +1,5 @@
 # ISBJ-Decrypter-macOS
-##Deutsch
+## Deutsch
 Dieses Programm macht die ISBJ Entschlüsselungssoftware (Integrierte Software Berliner Jugendhilfe) unter MacOS lauffähig.
 Laden Sie einfach die neuste Version unter "Releases" herunter und installieren Sie das Programm. Anschließend finden Sie den "Decrypter" im Programme-Ordner.
 Getestet unter Mac OS Big Sur 11.0.1
@@ -11,7 +11,7 @@ Sollte ihr Mac mit einer P1 CPU ausgestattet sein, müssen Sie vor dem Starten d
 >softwareupdate --install-rosetta
 
 __________________
-##English
+## English
 Version of the Decrypter of Intergrierte Software Berliner Jugendhilfe (ISBJ) for MacOS.
 Just download the package you can find on "releases" and run it on your system.
 
