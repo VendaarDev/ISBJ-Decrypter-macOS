@@ -3,7 +3,7 @@
 
 ## Deutsch
 Dieses Programm macht die ISBJ Entschlüsselungssoftware (Integrierte Software Berliner Jugendhilfe) unter MacOS lauffähig.
-Laden Sie einfach die neuste Version unter "Releases" herunter und installieren Sie das Programm. Anschließend finden Sie den "Decrypter" im Programme-Ordner.
+Laden Sie einfach die neueste Version unter "Releases" herunter und installieren Sie das Programm. Anschließend finden Sie den "Decrypter" im Programme-Ordner.
 Getestet unter Mac OS Big Sur 11.0.1
 
 Dieses Projekt wird nicht von  der Senatsverwaltung für Bildung, Jugend und Familie Berlin sondern privat von mir vertrieben, da der Senat offiziell nur Windows unterstützt.
