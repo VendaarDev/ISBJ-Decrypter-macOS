@@ -6,7 +6,7 @@ Dieses Programm macht die ISBJ Entschlüsselungssoftware (Integrierte Software B
 Laden Sie einfach die neuste Version unter "Releases" herunter und installieren Sie das Programm. Anschließend finden Sie den "Decrypter" im Programme-Ordner.
 Getestet unter Mac OS Big Sur 11.0.1
 
-Dieses Projekt wird nicht von der der Senatsverwaltung für Bildung, Jugend und Familie Berlin unterstützt sondern privat von mir vertrieben, da der Senat offiziell nur Windows unterstützt.
+Dieses Projekt wird nicht von  der Senatsverwaltung für Bildung, Jugend und Familie Berlin sondern privat von mir vertrieben, da der Senat offiziell nur Windows unterstützt.
 
 ### Achtung: Macs mit P1 Prozessor  
 Sollte ihr Mac mit einer P1 CPU ausgestattet sein, müssen Sie vor dem Starten der Software folgende Befehlszeile in das Terminal eingeben und dem Installationsassistenten für Rosetta 2 folgen.
