@@ -1,5 +1,5 @@
 # ISBJ-Decrypter-macOS
-[Download](https://github.com/VendaarDev/ISBJ-Decrypter-macOS/releases/tag/1.0)
+[Weiter zur Downloadseite](https://github.com/VendaarDev/ISBJ-Decrypter-macOS/releases/tag/1.0)
 
 ## Deutsch
 Dieses Programm macht die ISBJ Entschlüsselungssoftware (Integrierte Software Berliner Jugendhilfe) unter MacOS lauffähig.
