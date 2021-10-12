@@ -16,3 +16,7 @@ Version of the Decrypter of Intergrierte Software Berliner Jugendhilfe (ISBJ) fo
 Just download the package you can find on "releases" and run it on your system.
 
 This project is not officially affiliated with Senate Department for Education, Youth and Family of Berlin.
+
+### Attention P1 CPU Users
+If you are using a Mac with P1 processor, please runt he following command in your terminal before starting the decrypter
+>softwareupdate --install-rosetta
