@@ -22,3 +22,6 @@ This project is not officially affiliated with Senate Department for Education, 
 ### Attention M1 CPU Users
 If you are using a Mac with M1 processor, please runt he following command in your terminal before starting the decrypter
 >softwareupdate --install-rosetta
+
+
+Alte Version für Mac 10.12 (Sierra und älter): [Downloadseite](https://github.com/VendaarDev/ISBJ-Decrypter-macOS/releases/tag/0.5)
