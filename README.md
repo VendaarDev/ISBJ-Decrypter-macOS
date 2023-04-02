@@ -24,4 +24,6 @@ If you are using a Mac with M1 processor, please runt he following command in yo
 >softwareupdate --install-rosetta
 
 
-Alte Version für Mac 10.12 (Sierra und älter): [Downloadseite](https://github.com/VendaarDev/ISBJ-Decrypter-macOS/releases/tag/0.5)
+
+Alte Versionen:
+Mac 10.12 (Sierra und älter): [Downloadseite](https://github.com/VendaarDev/ISBJ-Decrypter-macOS/releases/tag/0.5)
