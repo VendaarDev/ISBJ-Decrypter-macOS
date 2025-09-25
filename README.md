@@ -1,5 +1,4 @@
-DER DECRYPTER WIRD AKTUELL SCHRITTWEISE DURCH DEN ISBJ-DOKUMENTENTRESOR ERSETZT (Stand Juli 2025). TRÄGERMITTEILUNGEN UND ABRECHNUNGEN MÜSSEN NICHT MEHR ENTSCHLÜSSELT WERDEN. DIESE VERSION DER SOFTWARE WIRD IN KÜRZE ARCHIVIERT, SIE KÖNNEN DAMIT ABER WEITERHIN ALTE TRÄGERMITTEILUNGEN VOR DER UMSTELLUNG ENTSCHLÜSSELN.
-
+DER DECRYPTER WIRD AKTUELL SCHRITTWEISE DURCH DEN ISBJ-DOKUMENTENTRESOR ERSETZT (Stand Juli 2025). Trägermitteilungen und Abrechnungen müssen nicht mehr entschlüsselt werden. Diese Version der Software wird in Kürze archiviert, Sie können damit aber weiterhin alte Trägermitteilungen vor der Umstellung entschlüsseln.
 Weitere Informationen zum Dokumententresor entnehmen Sie bitte den offiziellen Dokumentationen der Senatsverwaltung für Bildung, Jugend und Familie: https://www.berlin.de/sen/jugend/traegerservice/isbj/
 
 # ISBJ-Decrypter-macOS
